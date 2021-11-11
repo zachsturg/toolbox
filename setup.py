@@ -10,6 +10,6 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url='https://github.com/mike-huls/toolbox',
     license='MIT',
-    packages=find_packages(),
+    packages=setuptools.find_packages(),
     install_requires=['requests','hmac','time','base64'],
 )
