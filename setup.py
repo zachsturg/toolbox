@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='toolbox',
+    name='token_gen',
     version='0.0.1',
     author='Zach S',
     author_email='zachsturg@gmail.com',
