@@ -11,5 +11,5 @@ setuptools.setup(
     url='https://github.com/mike-huls/toolbox',
     license='MIT',
     packages=setuptools.find_packages(),
-    install_requires=['requests','hmac'],
+    install_requires=['requests'],
 )
