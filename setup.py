@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='token_gen',
-    version='0.0.1',
+    version='0.0.2',
     author='Zach S',
     author_email='zachsturg@gmail.com',
     description='Testing installation of Package',
